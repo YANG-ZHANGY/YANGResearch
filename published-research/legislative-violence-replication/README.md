@@ -5,7 +5,7 @@ Code and selected documentation accompanying Yang Zhang's public replication dep
 本儲存庫整理已公開的 2.0 版重現程式與方法說明。Harvard Dataverse API 已確認該版本於 2026-07-23 發布；整理於 2026-10-11 完成公開版本與本機 ZIP 的一致性核對。
 
 - Dataset and complete replication package: [Harvard Dataverse, version 2.0](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/B2ZUV8&version=2.0).
-- Public manuscript: [SSRN](https://doi.org/10.2139/ssrn.5352214). This identifies a public preprint; journal publication is not established here.
+- Published article: [The Journal of Legislative Studies](https://doi.org/10.1080/13572334.2026.2708491).
 - Public archive: `Harvard_Dataverse_Replication_v2.0.zip`, Dataverse file ID `14092442`.
 
 ## Contents and execution
