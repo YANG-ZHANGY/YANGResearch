@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the dataset and the related article."
+title: "Replication Data for: When Conflict Leaves the Rules: Party Institutionalisation, System Closure and Legislative Violence in Europe"
+type: dataset
+authors:
+  - family-names: "Zhang"
+    given-names: "Yang"
+    affiliation: "Hong Kong Metropolitan University"
+abstract: "Replication package containing the archived European country-year panel, reproduction code, statistical outputs, publication figures, machine-readable figure source data, and archival documentation for the related article."
+version: "2.0"
+doi: "10.7910/DVN/B2ZUV8"
+url: "https://doi.org/10.7910/DVN/B2ZUV8"
+license: "CC0-1.0"
+keywords:
+  - "legislative violence"
+  - "parliamentary conflict"
+  - "party institutionalisation"
+  - "party-system closure"
+  - "polarisation"
+  - "Europe"
+  - "PPML"
+  - "replication data"
+contact:
+  - family-names: "Zhang"
+    given-names: "Yang"
+    affiliation: "Hong Kong Metropolitan University"

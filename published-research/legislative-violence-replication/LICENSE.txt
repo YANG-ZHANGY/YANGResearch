@@ -1,0 +1,13 @@
+CC0 1.0 Universal
+
+To the extent that the depositor holds copyright and related or neighboring rights in the deposited materials, the depositor dedicates those rights to the public under the Creative Commons CC0 1.0 Universal Public Domain Dedication.
+
+Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+Third-party material
+
+This dedication does not alter copyright, database rights, contractual conditions, attribution duties, or other terms that apply to material obtained from third-party sources. Users must comply with the terms set by each source provider. Source-specific information and known provenance gaps are listed in documentation/SOURCE_INVENTORY.csv.
+
+No warranty
+
+The materials are provided as-is and without warranties. Users are responsible for evaluating fitness for their intended use and for complying with all applicable source terms.
