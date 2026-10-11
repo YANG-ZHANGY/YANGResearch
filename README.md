@@ -4,7 +4,7 @@
 
 Public research materials by **Yang Zhang**. This repository brings together replication code, methodological documentation, and earlier research materials in legislative politics and Taiwanese political behaviour.
 
-[Researcher profile](https://github.com/YANG-ZHANGY) · [Dataverse](https://doi.org/10.7910/DVN/B2ZUV8) · [SSRN preprint](https://doi.org/10.2139/ssrn.5352214)
+[Researcher profile](https://github.com/YANG-ZHANGY) · [Dataverse](https://doi.org/10.7910/DVN/B2ZUV8) · [Journal article](https://doi.org/10.1080/13572334.2026.2708491)
 
 ## Start here
 
@@ -18,7 +18,7 @@ Public research materials by **Yang Zhang**. This repository brings together rep
 
 **When Conflict Leaves the Rules: Party Institutionalisation, System Closure and Legislative Violence in Europe**
 
-This project examines legislative violence in relation to party institutionalisation, party-system closure, and polarisation. A public preprint is available on SSRN; replication package version 2.0 is available on Harvard Dataverse.
+This project examines legislative violence in relation to party institutionalisation, party-system closure, and polarisation. The article is published in The Journal of Legislative Studies; replication package version 2.0 is available on Harvard Dataverse.
 
 The code companion includes eight Python/R scripts, a variable codebook, source inventory, software notes, and a documented Hybrid Poisson reconstruction. Consult its [README](published-research/legislative-violence-replication/README.md) for execution requirements and the disclosed differences between reconstructed and manuscript-reported estimates.
 
